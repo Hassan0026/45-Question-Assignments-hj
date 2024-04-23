@@ -1,0 +1,16 @@
+{
+  "name": "45-question-assignment",
+  "version": "1.0.0",
+  "description": "Assignment of 45 Question",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
